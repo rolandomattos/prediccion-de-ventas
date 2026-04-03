@@ -1,5 +1,5 @@
 # 📈 Forecasting de Ventas en E-commerce de Suministros de Oficina
-
+![Gráfico de ventas](imagenes/grafico.png)
 ## 📌 Descripción General
 En este proyecto abordamos el histórico de ventas (ene 2015 – dic 2018) de un e-commerce de consumibles, mobiliario y equipos de oficina.  
 Nuestro objetivo es construir y comparar varios modelos de forecasting (SARIMA, SARIMAX, XGBoost, Prophet) para **predecir los próximos 6 meses** con un **MAPE < 20 %** y proveer recomendaciones de inventario, logística y marketing.
